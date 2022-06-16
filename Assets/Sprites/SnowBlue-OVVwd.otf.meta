@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 68c1996ec49e638489a4b4f9f1f42aa5
+timeCreated: 1644662059
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SNOW BLUE
+  fontNames:
+  - SNOW BLUE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
